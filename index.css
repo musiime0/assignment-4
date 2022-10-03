@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+h1{
+    text-align:center; 
+    background-color: brown;
+}
+
+img{
+    border-radius: 50%;
+    float:right;
+    height: 100px;
+    width: 100px;
+}
+#logo{
+    height: 800px;
+    width: 800px;
+    background-color: aquamarine;
+}
